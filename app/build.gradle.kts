@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.example.bustame_driver_android"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.bustame_driver_android"
