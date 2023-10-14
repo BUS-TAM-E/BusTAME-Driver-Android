@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
+
     <color name="white">#FFFFFFFF</color>
+
+    <color name="green100">#1BC866</color>
+    <color name="green200">#58D78F</color>
+    <color name="green300">#B1E8C9</color>
+    <color name="green400">#D6F1E2</color>
+
+    <color name="black100">#FF000000</color>
+    <color name="black200">#575757</color>
+    <color name="black300">#808080</color>
+    <color name="black400">#B3B3B3</color>
+    <color name="black500">#E5E5E5</color>
+
+    <color name="positive">#79DFA5</color>
+    <color name="negative">#FF8A77</color>
+
+    <color name="blueBuss">#1F85EA</color>
 </resources>
