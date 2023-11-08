@@ -17,7 +17,14 @@ color positive
 color white
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable radiusbutton
 drawable splash
+id settingButton
+id textView
+id textView2
+id textView3
+id textView4
+layout activity_input_bus_number
 layout activity_main
 mipmap bustame_icon
 mipmap bustame_icon_foreground
