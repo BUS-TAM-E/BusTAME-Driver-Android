@@ -30,6 +30,7 @@
         android:layout_height="80dp"
         android:layout_marginStart="95dp"
         android:layout_marginEnd="95dp"
+        android:layout_marginBottom="315dp"
         android:backgroundTint="@color/white"
         android:ems="10"
         android:hint="버스 번호"
@@ -39,10 +40,10 @@
         android:textColorHint="@color/white"
         android:textSize="40sp"
         android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/InputButton"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
-        app:layout_constraintStart_toStartOf="parent"
-        tools:layout_editor_absoluteY="292dp" />
+        app:layout_constraintStart_toStartOf="parent" />
 
     <TextView
         android:id="@+id/textView3"
