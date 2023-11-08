@@ -4,87 +4,93 @@ ADDED from /Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidM
 INJECTED from /Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml:2:1-30:12
 INJECTED from /Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml:2:1-30:12
 INJECTED from /Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml:2:1-30:12
-MERGED from [androidx.databinding:databinding-adapters:8.1.3] /Users/leeyebeen/.gradle/caches/transforms-3/9259e28b417843409583f04f12bb89fb/transformed/databinding-adapters-8.1.3/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.databinding:databinding-ktx:8.1.3] /Users/leeyebeen/.gradle/caches/transforms-3/1c3c05ff3a1832188075107680d1ac70/transformed/databinding-ktx-8.1.3/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.databinding:databinding-runtime:8.1.3] /Users/leeyebeen/.gradle/caches/transforms-3/ea7a526866d819fe32a98f2ccbbda76c/transformed/databinding-runtime-8.1.3/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.databinding:viewbinding:8.1.3] /Users/leeyebeen/.gradle/caches/transforms-3/a0ccff1d9189d09af10c4d6417cf25be/transformed/viewbinding-8.1.3/AndroidManifest.xml:2:1-7:12
-MERGED from [com.google.android.material:material:1.10.0] /Users/leeyebeen/.gradle/caches/transforms-3/cb8d842abcf3c374139a925bdd97c7e0/transformed/material-1.10.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/leeyebeen/.gradle/caches/transforms-3/e64150522a85b3dc5137a03f84c1e31e/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/e56fdac0f9b9861d3d7a0dedb97a301d/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/c1fb0fb464df787c9458f5aa9079531d/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/4a9b4943f8f6233d184e625637bd0b28/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.fragment:fragment:1.3.6] /Users/leeyebeen/.gradle/caches/transforms-3/b9b77b919c9561557e669a9754d72f83/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.activity:activity:1.8.0] /Users/leeyebeen/.gradle/caches/transforms-3/6538d42d129f64151185fd71920b7538/transformed/activity-1.8.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/e82b7db37e353467921e2e5237047574/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/9e38256427b33be93ddeafb28330a6c6/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/leeyebeen/.gradle/caches/transforms-3/32c7d6ce49f504a69467c18a7fb8636e/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/7873b3be7d6c14773642ffac87beb433/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/bf8587ba1b283bc8715079784ffb5919/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/de2a8b1fde04d64108906dbb7018e0e1/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/6ba0617c59c8062af67d7e39d4b9c2cc/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-service:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/1bd353033d0d2fecaa3d91dd13760a50/transformed/lifecycle-service-2.6.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/leeyebeen/.gradle/caches/transforms-3/d9742e956dc216ea769570ca163e667c/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/leeyebeen/.gradle/caches/transforms-3/dc3a2527719af6ee81f6de9e4f2793d9/transformed/emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/4fd4ca8dd81cf9bf6a022cb7bceab493/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:17:1-35:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/440faaf0d410857b782e79ca7fe563d1/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core-ktx:1.9.0] /Users/leeyebeen/.gradle/caches/transforms-3/e6a27d6181bf8b9fb438427e80ddb52b/transformed/core-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/leeyebeen/.gradle/caches/transforms-3/66169e554e9051fb8d08f9a67a6e1364/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/leeyebeen/.gradle/caches/transforms-3/d69171b0deecf72d9de73cd0c1c0cdb5/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.transition:transition:1.2.0] /Users/leeyebeen/.gradle/caches/transforms-3/03a2967ac7cd3caa1657b97e0333c57d/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/leeyebeen/.gradle/caches/transforms-3/036f62f8e914b1d1177dd0e4934a3a2e/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/leeyebeen/.gradle/caches/transforms-3/521d1726c7cced10695e5218473f5683/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/5563607734b7ac8797b4796e59f5dc9e/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/leeyebeen/.gradle/caches/transforms-3/923644ffba3219757345c3b142e75779/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.customview:customview:1.1.0] /Users/leeyebeen/.gradle/caches/transforms-3/3919fa9680a8c9d94a75c6810330b5ae/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.core:core:1.9.0] /Users/leeyebeen/.gradle/caches/transforms-3/b5ba732faec324c1f421e5180141a7a3/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/37d39bd4b70bdeb33d8c21ea54828d6b/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/eabd464052be524cbf00c77939b1c91f/transformed/lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core-splashscreen:1.0.1] /Users/leeyebeen/.gradle/caches/transforms-3/419c10ee8fef473499332d84eba164b4/transformed/core-splashscreen-1.0.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/34372a90291b96952fe14c9f8e5e7248/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/c550ff2d945ec0859eed243237eaa66b/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/leeyebeen/.gradle/caches/transforms-3/b1e592cfc7b225a5556bbe0cf524bfb3/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/1915496ef62d778cb7062eae94a11d99/transformed/profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/leeyebeen/.gradle/caches/transforms-3/4fafe8b9971959350fd5a3b8be0711d9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/leeyebeen/.gradle/caches/transforms-3/3758bf2e0cafdd81560414f8657aabd0/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.tracing:tracing:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/36d7c9722319cdcdbadba71591cc02a8/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/231952de3634281f4ca3f74724447fc4/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/8a714a83d7aadbbb8caacc69a40617a9/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/7d34d43a426e570552316aaa7628daae/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/64a73781c89f171f0d4af5d819e00c53/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/9b136846b8bb93b1ff009e1138ccb2c4/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.databinding:databinding-adapters:8.0.2] /Users/leeyebeen/.gradle/caches/transforms-3/c0d6c30242dc135ee31ecd27d4a2737b/transformed/databinding-adapters-8.0.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:databinding-ktx:8.0.2] /Users/leeyebeen/.gradle/caches/transforms-3/5962cff169d26d623789621e71082182/transformed/databinding-ktx-8.0.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:databinding-runtime:8.0.2] /Users/leeyebeen/.gradle/caches/transforms-3/a0149f9d52cf2c2da00797e46fe800b8/transformed/databinding-runtime-8.0.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:viewbinding:8.0.2] /Users/leeyebeen/.gradle/caches/transforms-3/9d129d02f1cfed74e328b0d530c97339/transformed/viewbinding-8.0.2/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.10.0] /Users/leeyebeen/.gradle/caches/transforms-3/a1c8eceda6ea86fa81ec66a28d94953d/transformed/material-1.10.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/leeyebeen/.gradle/caches/transforms-3/def77342f7c4354e2a6a9a21ef1e77ea/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/f0c0635384b4dec90ec24e310637d4cd/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/0649663dbe971e04ba4a8e58acd1a749/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/ab38961c3d45832902d194c5d1475c2e/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/leeyebeen/.gradle/caches/transforms-3/87ff39d33a6785508fc0ea52d338c5a5/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.0] /Users/leeyebeen/.gradle/caches/transforms-3/97c379a0745bf5a7b14bad0d5608434a/transformed/activity-1.8.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/leeyebeen/.gradle/caches/transforms-3/a89ec7688bdb3fe0674ac7083287b010/transformed/core-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/leeyebeen/.gradle/caches/transforms-3/5a1485315f69c599fec0ab68b3cb6f68/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/leeyebeen/.gradle/caches/transforms-3/e82fd65a5bda7fc55434d012ad3e97da/transformed/emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/leeyebeen/.gradle/caches/transforms-3/15228fa7441e464acdfeed3238ff6614/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/leeyebeen/.gradle/caches/transforms-3/fc1a72afcacaf718c3b0d127ea73f4cf/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/965a57f5202eacb919dd65fd5e4ef3e3/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/leeyebeen/.gradle/caches/transforms-3/a55557901c1e43a20debd4577545e15d/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/leeyebeen/.gradle/caches/transforms-3/46b64f08477bc20f166bce10cfa694df/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/leeyebeen/.gradle/caches/transforms-3/ef1f117c6f31d1b043af05bf9f16a72b/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/68e00d0dcdd3d6552f3ee83a4544ac37/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/cb335342385c6e17ee6de4d9a75ce5c1/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/612cd2faa91671283d6a93464965e75e/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/leeyebeen/.gradle/caches/transforms-3/9bdabbd4f6b15f09206a21ab671204c3/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/leeyebeen/.gradle/caches/transforms-3/8ecb7bfae085e3be77ceeeae4c48bdcd/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] /Users/leeyebeen/.gradle/caches/transforms-3/9952431af2cd09d815de29f0fdd5de91/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/leeyebeen/.gradle/caches/transforms-3/008b43878e799f4aebdd292fcf0e3c29/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/4ed05bfb5b873e557278b0294998d3aa/transformed/lifecycle-service-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/08d7c8358216aaa37d0f868945ce91e5/transformed/lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/e256f97501067bee72e6aba6e67acdb7/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/4c76d38ff61e3417206f55fd8200dde9/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/d36b3531507cd7d6505dd4fd53fa21e6/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/7fba2d2ec938e6889687521a17e5439b/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/5b97dfaca684e61e9d35cacb3c31f5e0/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/419149d49017ca42eaf2976a813afcf2/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-splashscreen:1.0.1] /Users/leeyebeen/.gradle/caches/transforms-3/4cdf8e10ee408d04339b8d8264b111e8/transformed/core-splashscreen-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/60574a9d475513e402ad6a7df27b98e2/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/861e9f0b68254e1200466060bb3e88dd/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/leeyebeen/.gradle/caches/transforms-3/e4eebadf79b299970646b77f86e62dce/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/leeyebeen/.gradle/caches/transforms-3/3bc070e040b3734fb2b5b6e82be0bbd0/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/3e74b0b0f6bbad4fbd7f7d8f3617a512/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/34f363e050e27e25da792a1670ba5c77/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/leeyebeen/.gradle/caches/transforms-3/d6be75b1d1656014963eb9f55e030d33/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/9f05fa226df754df31cede0c0da48b38/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/4ce2357a5c2db4639bdca41b3e1d2148/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/3b4a3899cd0beae75d5123f75f05a7ff/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/f69feef7246c9b6e697c64e702e7e55d/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml:2:1-30:12
 	package
 		INJECTED from /Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml
 	android:versionName
+		INJECTED from /Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml:2:1-30:12
 		INJECTED from /Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml
 	xmlns:tools
 		ADDED from /Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from /Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml:2:11-69
 application
 ADDED from /Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml:5:5-28:19
-INJECTED from /Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml:5:5-28:19
-MERGED from [com.google.android.material:material:1.10.0] /Users/leeyebeen/.gradle/caches/transforms-3/cb8d842abcf3c374139a925bdd97c7e0/transformed/material-1.10.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.material:material:1.10.0] /Users/leeyebeen/.gradle/caches/transforms-3/cb8d842abcf3c374139a925bdd97c7e0/transformed/material-1.10.0/AndroidManifest.xml:22:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/leeyebeen/.gradle/caches/transforms-3/e64150522a85b3dc5137a03f84c1e31e/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/leeyebeen/.gradle/caches/transforms-3/e64150522a85b3dc5137a03f84c1e31e/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
-MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/leeyebeen/.gradle/caches/transforms-3/dc3a2527719af6ee81f6de9e4f2793d9/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/leeyebeen/.gradle/caches/transforms-3/dc3a2527719af6ee81f6de9e4f2793d9/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/4fd4ca8dd81cf9bf6a022cb7bceab493/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/4fd4ca8dd81cf9bf6a022cb7bceab493/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.core:core:1.9.0] /Users/leeyebeen/.gradle/caches/transforms-3/b5ba732faec324c1f421e5180141a7a3/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
-MERGED from [androidx.core:core:1.9.0] /Users/leeyebeen/.gradle/caches/transforms-3/b5ba732faec324c1f421e5180141a7a3/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/1915496ef62d778cb7062eae94a11d99/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/1915496ef62d778cb7062eae94a11d99/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/leeyebeen/.gradle/caches/transforms-3/4fafe8b9971959350fd5a3b8be0711d9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/leeyebeen/.gradle/caches/transforms-3/4fafe8b9971959350fd5a3b8be0711d9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/leeyebeen/.gradle/caches/transforms-3/3758bf2e0cafdd81560414f8657aabd0/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/leeyebeen/.gradle/caches/transforms-3/3758bf2e0cafdd81560414f8657aabd0/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
-	android:extractNativeLibs
-		INJECTED from /Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.10.0] /Users/leeyebeen/.gradle/caches/transforms-3/a1c8eceda6ea86fa81ec66a28d94953d/transformed/material-1.10.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.10.0] /Users/leeyebeen/.gradle/caches/transforms-3/a1c8eceda6ea86fa81ec66a28d94953d/transformed/material-1.10.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/leeyebeen/.gradle/caches/transforms-3/def77342f7c4354e2a6a9a21ef1e77ea/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/leeyebeen/.gradle/caches/transforms-3/def77342f7c4354e2a6a9a21ef1e77ea/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/leeyebeen/.gradle/caches/transforms-3/e82fd65a5bda7fc55434d012ad3e97da/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/leeyebeen/.gradle/caches/transforms-3/e82fd65a5bda7fc55434d012ad3e97da/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] /Users/leeyebeen/.gradle/caches/transforms-3/9952431af2cd09d815de29f0fdd5de91/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] /Users/leeyebeen/.gradle/caches/transforms-3/9952431af2cd09d815de29f0fdd5de91/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/e256f97501067bee72e6aba6e67acdb7/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/e256f97501067bee72e6aba6e67acdb7/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/leeyebeen/.gradle/caches/transforms-3/e4eebadf79b299970646b77f86e62dce/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/leeyebeen/.gradle/caches/transforms-3/e4eebadf79b299970646b77f86e62dce/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/leeyebeen/.gradle/caches/transforms-3/3bc070e040b3734fb2b5b6e82be0bbd0/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/leeyebeen/.gradle/caches/transforms-3/3bc070e040b3734fb2b5b6e82be0bbd0/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.9.0] /Users/leeyebeen/.gradle/caches/transforms-3/b5ba732faec324c1f421e5180141a7a3/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+		ADDED from [androidx.core:core:1.9.0] /Users/leeyebeen/.gradle/caches/transforms-3/9952431af2cd09d815de29f0fdd5de91/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
 	android:supportsRtl
 		ADDED from /Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml:12:9-35
 	android:label
@@ -129,193 +135,199 @@ uses-sdk
 INJECTED from /Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml
 INJECTED from /Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml
-MERGED from [androidx.databinding:databinding-adapters:8.1.3] /Users/leeyebeen/.gradle/caches/transforms-3/9259e28b417843409583f04f12bb89fb/transformed/databinding-adapters-8.1.3/AndroidManifest.xml:5:5-44
-MERGED from [androidx.databinding:databinding-adapters:8.1.3] /Users/leeyebeen/.gradle/caches/transforms-3/9259e28b417843409583f04f12bb89fb/transformed/databinding-adapters-8.1.3/AndroidManifest.xml:5:5-44
-MERGED from [androidx.databinding:databinding-ktx:8.1.3] /Users/leeyebeen/.gradle/caches/transforms-3/1c3c05ff3a1832188075107680d1ac70/transformed/databinding-ktx-8.1.3/AndroidManifest.xml:5:5-44
-MERGED from [androidx.databinding:databinding-ktx:8.1.3] /Users/leeyebeen/.gradle/caches/transforms-3/1c3c05ff3a1832188075107680d1ac70/transformed/databinding-ktx-8.1.3/AndroidManifest.xml:5:5-44
-MERGED from [androidx.databinding:databinding-runtime:8.1.3] /Users/leeyebeen/.gradle/caches/transforms-3/ea7a526866d819fe32a98f2ccbbda76c/transformed/databinding-runtime-8.1.3/AndroidManifest.xml:5:5-44
-MERGED from [androidx.databinding:databinding-runtime:8.1.3] /Users/leeyebeen/.gradle/caches/transforms-3/ea7a526866d819fe32a98f2ccbbda76c/transformed/databinding-runtime-8.1.3/AndroidManifest.xml:5:5-44
-MERGED from [androidx.databinding:viewbinding:8.1.3] /Users/leeyebeen/.gradle/caches/transforms-3/a0ccff1d9189d09af10c4d6417cf25be/transformed/viewbinding-8.1.3/AndroidManifest.xml:5:5-44
-MERGED from [androidx.databinding:viewbinding:8.1.3] /Users/leeyebeen/.gradle/caches/transforms-3/a0ccff1d9189d09af10c4d6417cf25be/transformed/viewbinding-8.1.3/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.material:material:1.10.0] /Users/leeyebeen/.gradle/caches/transforms-3/cb8d842abcf3c374139a925bdd97c7e0/transformed/material-1.10.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.10.0] /Users/leeyebeen/.gradle/caches/transforms-3/cb8d842abcf3c374139a925bdd97c7e0/transformed/material-1.10.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/leeyebeen/.gradle/caches/transforms-3/e64150522a85b3dc5137a03f84c1e31e/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/leeyebeen/.gradle/caches/transforms-3/e64150522a85b3dc5137a03f84c1e31e/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/e56fdac0f9b9861d3d7a0dedb97a301d/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/e56fdac0f9b9861d3d7a0dedb97a301d/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/c1fb0fb464df787c9458f5aa9079531d/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/c1fb0fb464df787c9458f5aa9079531d/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/4a9b4943f8f6233d184e625637bd0b28/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/4a9b4943f8f6233d184e625637bd0b28/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.3.6] /Users/leeyebeen/.gradle/caches/transforms-3/b9b77b919c9561557e669a9754d72f83/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.3.6] /Users/leeyebeen/.gradle/caches/transforms-3/b9b77b919c9561557e669a9754d72f83/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.8.0] /Users/leeyebeen/.gradle/caches/transforms-3/6538d42d129f64151185fd71920b7538/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.8.0] /Users/leeyebeen/.gradle/caches/transforms-3/6538d42d129f64151185fd71920b7538/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/e82b7db37e353467921e2e5237047574/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/e82b7db37e353467921e2e5237047574/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/9e38256427b33be93ddeafb28330a6c6/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/9e38256427b33be93ddeafb28330a6c6/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/leeyebeen/.gradle/caches/transforms-3/32c7d6ce49f504a69467c18a7fb8636e/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/leeyebeen/.gradle/caches/transforms-3/32c7d6ce49f504a69467c18a7fb8636e/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/7873b3be7d6c14773642ffac87beb433/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/7873b3be7d6c14773642ffac87beb433/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/bf8587ba1b283bc8715079784ffb5919/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/bf8587ba1b283bc8715079784ffb5919/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/de2a8b1fde04d64108906dbb7018e0e1/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/de2a8b1fde04d64108906dbb7018e0e1/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/6ba0617c59c8062af67d7e39d4b9c2cc/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/6ba0617c59c8062af67d7e39d4b9c2cc/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-service:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/1bd353033d0d2fecaa3d91dd13760a50/transformed/lifecycle-service-2.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-service:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/1bd353033d0d2fecaa3d91dd13760a50/transformed/lifecycle-service-2.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/leeyebeen/.gradle/caches/transforms-3/d9742e956dc216ea769570ca163e667c/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/leeyebeen/.gradle/caches/transforms-3/d9742e956dc216ea769570ca163e667c/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/leeyebeen/.gradle/caches/transforms-3/dc3a2527719af6ee81f6de9e4f2793d9/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/leeyebeen/.gradle/caches/transforms-3/dc3a2527719af6ee81f6de9e4f2793d9/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/4fd4ca8dd81cf9bf6a022cb7bceab493/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/4fd4ca8dd81cf9bf6a022cb7bceab493/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/440faaf0d410857b782e79ca7fe563d1/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/440faaf0d410857b782e79ca7fe563d1/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core-ktx:1.9.0] /Users/leeyebeen/.gradle/caches/transforms-3/e6a27d6181bf8b9fb438427e80ddb52b/transformed/core-ktx-1.9.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.core:core-ktx:1.9.0] /Users/leeyebeen/.gradle/caches/transforms-3/e6a27d6181bf8b9fb438427e80ddb52b/transformed/core-ktx-1.9.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/leeyebeen/.gradle/caches/transforms-3/66169e554e9051fb8d08f9a67a6e1364/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/leeyebeen/.gradle/caches/transforms-3/66169e554e9051fb8d08f9a67a6e1364/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/leeyebeen/.gradle/caches/transforms-3/d69171b0deecf72d9de73cd0c1c0cdb5/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/leeyebeen/.gradle/caches/transforms-3/d69171b0deecf72d9de73cd0c1c0cdb5/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.2.0] /Users/leeyebeen/.gradle/caches/transforms-3/03a2967ac7cd3caa1657b97e0333c57d/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.2.0] /Users/leeyebeen/.gradle/caches/transforms-3/03a2967ac7cd3caa1657b97e0333c57d/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/leeyebeen/.gradle/caches/transforms-3/036f62f8e914b1d1177dd0e4934a3a2e/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/leeyebeen/.gradle/caches/transforms-3/036f62f8e914b1d1177dd0e4934a3a2e/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/leeyebeen/.gradle/caches/transforms-3/521d1726c7cced10695e5218473f5683/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/leeyebeen/.gradle/caches/transforms-3/521d1726c7cced10695e5218473f5683/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/5563607734b7ac8797b4796e59f5dc9e/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/5563607734b7ac8797b4796e59f5dc9e/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/leeyebeen/.gradle/caches/transforms-3/923644ffba3219757345c3b142e75779/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/leeyebeen/.gradle/caches/transforms-3/923644ffba3219757345c3b142e75779/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview:1.1.0] /Users/leeyebeen/.gradle/caches/transforms-3/3919fa9680a8c9d94a75c6810330b5ae/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview:1.1.0] /Users/leeyebeen/.gradle/caches/transforms-3/3919fa9680a8c9d94a75c6810330b5ae/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.9.0] /Users/leeyebeen/.gradle/caches/transforms-3/b5ba732faec324c1f421e5180141a7a3/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.9.0] /Users/leeyebeen/.gradle/caches/transforms-3/b5ba732faec324c1f421e5180141a7a3/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/37d39bd4b70bdeb33d8c21ea54828d6b/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/37d39bd4b70bdeb33d8c21ea54828d6b/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/eabd464052be524cbf00c77939b1c91f/transformed/lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/eabd464052be524cbf00c77939b1c91f/transformed/lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core-splashscreen:1.0.1] /Users/leeyebeen/.gradle/caches/transforms-3/419c10ee8fef473499332d84eba164b4/transformed/core-splashscreen-1.0.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core-splashscreen:1.0.1] /Users/leeyebeen/.gradle/caches/transforms-3/419c10ee8fef473499332d84eba164b4/transformed/core-splashscreen-1.0.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/34372a90291b96952fe14c9f8e5e7248/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/34372a90291b96952fe14c9f8e5e7248/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/c550ff2d945ec0859eed243237eaa66b/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/c550ff2d945ec0859eed243237eaa66b/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/leeyebeen/.gradle/caches/transforms-3/b1e592cfc7b225a5556bbe0cf524bfb3/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/leeyebeen/.gradle/caches/transforms-3/b1e592cfc7b225a5556bbe0cf524bfb3/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/1915496ef62d778cb7062eae94a11d99/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/1915496ef62d778cb7062eae94a11d99/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/leeyebeen/.gradle/caches/transforms-3/4fafe8b9971959350fd5a3b8be0711d9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/leeyebeen/.gradle/caches/transforms-3/4fafe8b9971959350fd5a3b8be0711d9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/leeyebeen/.gradle/caches/transforms-3/3758bf2e0cafdd81560414f8657aabd0/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/leeyebeen/.gradle/caches/transforms-3/3758bf2e0cafdd81560414f8657aabd0/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.tracing:tracing:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/36d7c9722319cdcdbadba71591cc02a8/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.tracing:tracing:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/36d7c9722319cdcdbadba71591cc02a8/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/231952de3634281f4ca3f74724447fc4/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/231952de3634281f4ca3f74724447fc4/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/8a714a83d7aadbbb8caacc69a40617a9/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/8a714a83d7aadbbb8caacc69a40617a9/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/7d34d43a426e570552316aaa7628daae/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/7d34d43a426e570552316aaa7628daae/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/64a73781c89f171f0d4af5d819e00c53/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/64a73781c89f171f0d4af5d819e00c53/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/9b136846b8bb93b1ff009e1138ccb2c4/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/9b136846b8bb93b1ff009e1138ccb2c4/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-adapters:8.0.2] /Users/leeyebeen/.gradle/caches/transforms-3/c0d6c30242dc135ee31ecd27d4a2737b/transformed/databinding-adapters-8.0.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-adapters:8.0.2] /Users/leeyebeen/.gradle/caches/transforms-3/c0d6c30242dc135ee31ecd27d4a2737b/transformed/databinding-adapters-8.0.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-ktx:8.0.2] /Users/leeyebeen/.gradle/caches/transforms-3/5962cff169d26d623789621e71082182/transformed/databinding-ktx-8.0.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-ktx:8.0.2] /Users/leeyebeen/.gradle/caches/transforms-3/5962cff169d26d623789621e71082182/transformed/databinding-ktx-8.0.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-runtime:8.0.2] /Users/leeyebeen/.gradle/caches/transforms-3/a0149f9d52cf2c2da00797e46fe800b8/transformed/databinding-runtime-8.0.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-runtime:8.0.2] /Users/leeyebeen/.gradle/caches/transforms-3/a0149f9d52cf2c2da00797e46fe800b8/transformed/databinding-runtime-8.0.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.0.2] /Users/leeyebeen/.gradle/caches/transforms-3/9d129d02f1cfed74e328b0d530c97339/transformed/viewbinding-8.0.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.0.2] /Users/leeyebeen/.gradle/caches/transforms-3/9d129d02f1cfed74e328b0d530c97339/transformed/viewbinding-8.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.10.0] /Users/leeyebeen/.gradle/caches/transforms-3/a1c8eceda6ea86fa81ec66a28d94953d/transformed/material-1.10.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.10.0] /Users/leeyebeen/.gradle/caches/transforms-3/a1c8eceda6ea86fa81ec66a28d94953d/transformed/material-1.10.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/leeyebeen/.gradle/caches/transforms-3/def77342f7c4354e2a6a9a21ef1e77ea/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/leeyebeen/.gradle/caches/transforms-3/def77342f7c4354e2a6a9a21ef1e77ea/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/f0c0635384b4dec90ec24e310637d4cd/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/f0c0635384b4dec90ec24e310637d4cd/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/0649663dbe971e04ba4a8e58acd1a749/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/0649663dbe971e04ba4a8e58acd1a749/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/ab38961c3d45832902d194c5d1475c2e/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/ab38961c3d45832902d194c5d1475c2e/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/leeyebeen/.gradle/caches/transforms-3/87ff39d33a6785508fc0ea52d338c5a5/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/leeyebeen/.gradle/caches/transforms-3/87ff39d33a6785508fc0ea52d338c5a5/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.0] /Users/leeyebeen/.gradle/caches/transforms-3/97c379a0745bf5a7b14bad0d5608434a/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] /Users/leeyebeen/.gradle/caches/transforms-3/97c379a0745bf5a7b14bad0d5608434a/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/leeyebeen/.gradle/caches/transforms-3/a89ec7688bdb3fe0674ac7083287b010/transformed/core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/leeyebeen/.gradle/caches/transforms-3/a89ec7688bdb3fe0674ac7083287b010/transformed/core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/leeyebeen/.gradle/caches/transforms-3/5a1485315f69c599fec0ab68b3cb6f68/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/leeyebeen/.gradle/caches/transforms-3/5a1485315f69c599fec0ab68b3cb6f68/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/leeyebeen/.gradle/caches/transforms-3/e82fd65a5bda7fc55434d012ad3e97da/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/leeyebeen/.gradle/caches/transforms-3/e82fd65a5bda7fc55434d012ad3e97da/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/leeyebeen/.gradle/caches/transforms-3/15228fa7441e464acdfeed3238ff6614/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/leeyebeen/.gradle/caches/transforms-3/15228fa7441e464acdfeed3238ff6614/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/leeyebeen/.gradle/caches/transforms-3/fc1a72afcacaf718c3b0d127ea73f4cf/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/leeyebeen/.gradle/caches/transforms-3/fc1a72afcacaf718c3b0d127ea73f4cf/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/965a57f5202eacb919dd65fd5e4ef3e3/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/965a57f5202eacb919dd65fd5e4ef3e3/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/leeyebeen/.gradle/caches/transforms-3/a55557901c1e43a20debd4577545e15d/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/leeyebeen/.gradle/caches/transforms-3/a55557901c1e43a20debd4577545e15d/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/leeyebeen/.gradle/caches/transforms-3/46b64f08477bc20f166bce10cfa694df/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/leeyebeen/.gradle/caches/transforms-3/46b64f08477bc20f166bce10cfa694df/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/leeyebeen/.gradle/caches/transforms-3/ef1f117c6f31d1b043af05bf9f16a72b/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/leeyebeen/.gradle/caches/transforms-3/ef1f117c6f31d1b043af05bf9f16a72b/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/68e00d0dcdd3d6552f3ee83a4544ac37/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/68e00d0dcdd3d6552f3ee83a4544ac37/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/cb335342385c6e17ee6de4d9a75ce5c1/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/cb335342385c6e17ee6de4d9a75ce5c1/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/612cd2faa91671283d6a93464965e75e/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/612cd2faa91671283d6a93464965e75e/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/leeyebeen/.gradle/caches/transforms-3/9bdabbd4f6b15f09206a21ab671204c3/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/leeyebeen/.gradle/caches/transforms-3/9bdabbd4f6b15f09206a21ab671204c3/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/leeyebeen/.gradle/caches/transforms-3/8ecb7bfae085e3be77ceeeae4c48bdcd/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/leeyebeen/.gradle/caches/transforms-3/8ecb7bfae085e3be77ceeeae4c48bdcd/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] /Users/leeyebeen/.gradle/caches/transforms-3/9952431af2cd09d815de29f0fdd5de91/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /Users/leeyebeen/.gradle/caches/transforms-3/9952431af2cd09d815de29f0fdd5de91/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/leeyebeen/.gradle/caches/transforms-3/008b43878e799f4aebdd292fcf0e3c29/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/leeyebeen/.gradle/caches/transforms-3/008b43878e799f4aebdd292fcf0e3c29/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/4ed05bfb5b873e557278b0294998d3aa/transformed/lifecycle-service-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/4ed05bfb5b873e557278b0294998d3aa/transformed/lifecycle-service-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/08d7c8358216aaa37d0f868945ce91e5/transformed/lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/08d7c8358216aaa37d0f868945ce91e5/transformed/lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/e256f97501067bee72e6aba6e67acdb7/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/e256f97501067bee72e6aba6e67acdb7/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/4c76d38ff61e3417206f55fd8200dde9/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/4c76d38ff61e3417206f55fd8200dde9/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/d36b3531507cd7d6505dd4fd53fa21e6/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/d36b3531507cd7d6505dd4fd53fa21e6/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/7fba2d2ec938e6889687521a17e5439b/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/7fba2d2ec938e6889687521a17e5439b/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/5b97dfaca684e61e9d35cacb3c31f5e0/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/5b97dfaca684e61e9d35cacb3c31f5e0/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/419149d49017ca42eaf2976a813afcf2/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/419149d49017ca42eaf2976a813afcf2/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-splashscreen:1.0.1] /Users/leeyebeen/.gradle/caches/transforms-3/4cdf8e10ee408d04339b8d8264b111e8/transformed/core-splashscreen-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-splashscreen:1.0.1] /Users/leeyebeen/.gradle/caches/transforms-3/4cdf8e10ee408d04339b8d8264b111e8/transformed/core-splashscreen-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/60574a9d475513e402ad6a7df27b98e2/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/60574a9d475513e402ad6a7df27b98e2/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/861e9f0b68254e1200466060bb3e88dd/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/861e9f0b68254e1200466060bb3e88dd/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/leeyebeen/.gradle/caches/transforms-3/e4eebadf79b299970646b77f86e62dce/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/leeyebeen/.gradle/caches/transforms-3/e4eebadf79b299970646b77f86e62dce/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/leeyebeen/.gradle/caches/transforms-3/3bc070e040b3734fb2b5b6e82be0bbd0/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/leeyebeen/.gradle/caches/transforms-3/3bc070e040b3734fb2b5b6e82be0bbd0/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/3e74b0b0f6bbad4fbd7f7d8f3617a512/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/3e74b0b0f6bbad4fbd7f7d8f3617a512/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/34f363e050e27e25da792a1670ba5c77/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/34f363e050e27e25da792a1670ba5c77/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/leeyebeen/.gradle/caches/transforms-3/d6be75b1d1656014963eb9f55e030d33/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/leeyebeen/.gradle/caches/transforms-3/d6be75b1d1656014963eb9f55e030d33/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/9f05fa226df754df31cede0c0da48b38/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/9f05fa226df754df31cede0c0da48b38/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/4ce2357a5c2db4639bdca41b3e1d2148/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/4ce2357a5c2db4639bdca41b3e1d2148/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/3b4a3899cd0beae75d5123f75f05a7ff/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/leeyebeen/.gradle/caches/transforms-3/3b4a3899cd0beae75d5123f75f05a7ff/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/f69feef7246c9b6e697c64e702e7e55d/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/f69feef7246c9b6e697c64e702e7e55d/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
+		INJECTED from /Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from /Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml
 provider#androidx.startup.InitializationProvider
-ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/leeyebeen/.gradle/caches/transforms-3/dc3a2527719af6ee81f6de9e4f2793d9/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/4fd4ca8dd81cf9bf6a022cb7bceab493/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/4fd4ca8dd81cf9bf6a022cb7bceab493/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/1915496ef62d778cb7062eae94a11d99/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/1915496ef62d778cb7062eae94a11d99/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/leeyebeen/.gradle/caches/transforms-3/4fafe8b9971959350fd5a3b8be0711d9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/leeyebeen/.gradle/caches/transforms-3/4fafe8b9971959350fd5a3b8be0711d9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/leeyebeen/.gradle/caches/transforms-3/e82fd65a5bda7fc55434d012ad3e97da/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/e256f97501067bee72e6aba6e67acdb7/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/e256f97501067bee72e6aba6e67acdb7/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/leeyebeen/.gradle/caches/transforms-3/3bc070e040b3734fb2b5b6e82be0bbd0/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/leeyebeen/.gradle/caches/transforms-3/3bc070e040b3734fb2b5b6e82be0bbd0/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
 	tools:node
-		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/leeyebeen/.gradle/caches/transforms-3/dc3a2527719af6ee81f6de9e4f2793d9/transformed/emoji2-1.2.0/AndroidManifest.xml:28:13-31
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/leeyebeen/.gradle/caches/transforms-3/e82fd65a5bda7fc55434d012ad3e97da/transformed/emoji2-1.2.0/AndroidManifest.xml:28:13-31
 	android:authorities
-		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/leeyebeen/.gradle/caches/transforms-3/dc3a2527719af6ee81f6de9e4f2793d9/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/leeyebeen/.gradle/caches/transforms-3/e82fd65a5bda7fc55434d012ad3e97da/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
 	android:exported
-		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/leeyebeen/.gradle/caches/transforms-3/dc3a2527719af6ee81f6de9e4f2793d9/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/leeyebeen/.gradle/caches/transforms-3/e82fd65a5bda7fc55434d012ad3e97da/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
 	android:name
-		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/leeyebeen/.gradle/caches/transforms-3/dc3a2527719af6ee81f6de9e4f2793d9/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/leeyebeen/.gradle/caches/transforms-3/e82fd65a5bda7fc55434d012ad3e97da/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
 meta-data#androidx.emoji2.text.EmojiCompatInitializer
-ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/leeyebeen/.gradle/caches/transforms-3/dc3a2527719af6ee81f6de9e4f2793d9/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/leeyebeen/.gradle/caches/transforms-3/e82fd65a5bda7fc55434d012ad3e97da/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
 	android:value
-		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/leeyebeen/.gradle/caches/transforms-3/dc3a2527719af6ee81f6de9e4f2793d9/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/leeyebeen/.gradle/caches/transforms-3/e82fd65a5bda7fc55434d012ad3e97da/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
 	android:name
-		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/leeyebeen/.gradle/caches/transforms-3/dc3a2527719af6ee81f6de9e4f2793d9/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
-meta-data#androidx.lifecycle.ProcessLifecycleInitializer
-ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/4fd4ca8dd81cf9bf6a022cb7bceab493/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:29:13-31:52
-	android:value
-		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/4fd4ca8dd81cf9bf6a022cb7bceab493/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:31:17-49
-	android:name
-		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/4fd4ca8dd81cf9bf6a022cb7bceab493/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:30:17-78
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/leeyebeen/.gradle/caches/transforms-3/e82fd65a5bda7fc55434d012ad3e97da/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
 permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.9.0] /Users/leeyebeen/.gradle/caches/transforms-3/b5ba732faec324c1f421e5180141a7a3/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+ADDED from [androidx.core:core:1.9.0] /Users/leeyebeen/.gradle/caches/transforms-3/9952431af2cd09d815de29f0fdd5de91/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
-		ADDED from [androidx.core:core:1.9.0] /Users/leeyebeen/.gradle/caches/transforms-3/b5ba732faec324c1f421e5180141a7a3/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+		ADDED from [androidx.core:core:1.9.0] /Users/leeyebeen/.gradle/caches/transforms-3/9952431af2cd09d815de29f0fdd5de91/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
 	android:name
-		ADDED from [androidx.core:core:1.9.0] /Users/leeyebeen/.gradle/caches/transforms-3/b5ba732faec324c1f421e5180141a7a3/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+		ADDED from [androidx.core:core:1.9.0] /Users/leeyebeen/.gradle/caches/transforms-3/9952431af2cd09d815de29f0fdd5de91/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
 permission#com.example.bustame_driver.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.9.0] /Users/leeyebeen/.gradle/caches/transforms-3/b5ba732faec324c1f421e5180141a7a3/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+ADDED from [androidx.core:core:1.9.0] /Users/leeyebeen/.gradle/caches/transforms-3/9952431af2cd09d815de29f0fdd5de91/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
-		ADDED from [androidx.core:core:1.9.0] /Users/leeyebeen/.gradle/caches/transforms-3/b5ba732faec324c1f421e5180141a7a3/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+		ADDED from [androidx.core:core:1.9.0] /Users/leeyebeen/.gradle/caches/transforms-3/9952431af2cd09d815de29f0fdd5de91/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
 	android:name
-		ADDED from [androidx.core:core:1.9.0] /Users/leeyebeen/.gradle/caches/transforms-3/b5ba732faec324c1f421e5180141a7a3/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+		ADDED from [androidx.core:core:1.9.0] /Users/leeyebeen/.gradle/caches/transforms-3/9952431af2cd09d815de29f0fdd5de91/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
 uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.9.0] /Users/leeyebeen/.gradle/caches/transforms-3/b5ba732faec324c1f421e5180141a7a3/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+ADDED from [androidx.core:core:1.9.0] /Users/leeyebeen/.gradle/caches/transforms-3/9952431af2cd09d815de29f0fdd5de91/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
 	android:name
-		ADDED from [androidx.core:core:1.9.0] /Users/leeyebeen/.gradle/caches/transforms-3/b5ba732faec324c1f421e5180141a7a3/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+		ADDED from [androidx.core:core:1.9.0] /Users/leeyebeen/.gradle/caches/transforms-3/9952431af2cd09d815de29f0fdd5de91/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
 uses-permission#com.example.bustame_driver.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.9.0] /Users/leeyebeen/.gradle/caches/transforms-3/b5ba732faec324c1f421e5180141a7a3/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+ADDED from [androidx.core:core:1.9.0] /Users/leeyebeen/.gradle/caches/transforms-3/9952431af2cd09d815de29f0fdd5de91/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
 	android:name
-		ADDED from [androidx.core:core:1.9.0] /Users/leeyebeen/.gradle/caches/transforms-3/b5ba732faec324c1f421e5180141a7a3/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
-meta-data#androidx.profileinstaller.ProfileInstallerInitializer
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/1915496ef62d778cb7062eae94a11d99/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+		ADDED from [androidx.core:core:1.9.0] /Users/leeyebeen/.gradle/caches/transforms-3/9952431af2cd09d815de29f0fdd5de91/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/e256f97501067bee72e6aba6e67acdb7/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:29:13-31:52
 	android:value
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/1915496ef62d778cb7062eae94a11d99/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/e256f97501067bee72e6aba6e67acdb7/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:31:17-49
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/1915496ef62d778cb7062eae94a11d99/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/e256f97501067bee72e6aba6e67acdb7/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
 receiver#androidx.profileinstaller.ProfileInstallReceiver
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/1915496ef62d778cb7062eae94a11d99/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
 	android:enabled
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/1915496ef62d778cb7062eae94a11d99/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
 	android:exported
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/1915496ef62d778cb7062eae94a11d99/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
 	android:permission
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/1915496ef62d778cb7062eae94a11d99/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
 	android:directBootAware
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/1915496ef62d778cb7062eae94a11d99/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/1915496ef62d778cb7062eae94a11d99/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
 intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/1915496ef62d778cb7062eae94a11d99/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
 action#androidx.profileinstaller.action.INSTALL_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/1915496ef62d778cb7062eae94a11d99/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/1915496ef62d778cb7062eae94a11d99/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
 intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/1915496ef62d778cb7062eae94a11d99/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
 action#androidx.profileinstaller.action.SKIP_FILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/1915496ef62d778cb7062eae94a11d99/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/1915496ef62d778cb7062eae94a11d99/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
 intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/1915496ef62d778cb7062eae94a11d99/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
 action#androidx.profileinstaller.action.SAVE_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/1915496ef62d778cb7062eae94a11d99/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/1915496ef62d778cb7062eae94a11d99/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
 intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/1915496ef62d778cb7062eae94a11d99/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
 action#androidx.profileinstaller.action.BENCHMARK_OPERATION
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/1915496ef62d778cb7062eae94a11d99/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/1915496ef62d778cb7062eae94a11d99/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
