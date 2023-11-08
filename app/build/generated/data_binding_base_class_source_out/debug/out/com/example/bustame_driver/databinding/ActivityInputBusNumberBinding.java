@@ -4,28 +4,20 @@ package com.example.bustame_driver.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.viewbinding.ViewBinding;
-import androidx.viewbinding.ViewBindings;
 import com.example.bustame_driver.R;
 import java.lang.NullPointerException;
 import java.lang.Override;
-import java.lang.String;
 
 public final class ActivityInputBusNumberBinding implements ViewBinding {
   @NonNull
   private final ConstraintLayout rootView;
 
-  @NonNull
-  public final TextView textView3;
-
-  private ActivityInputBusNumberBinding(@NonNull ConstraintLayout rootView,
-      @NonNull TextView textView3) {
+  private ActivityInputBusNumberBinding(@NonNull ConstraintLayout rootView) {
     this.rootView = rootView;
-    this.textView3 = textView3;
   }
 
   @Override
@@ -51,19 +43,10 @@ public final class ActivityInputBusNumberBinding implements ViewBinding {
 
   @NonNull
   public static ActivityInputBusNumberBinding bind(@NonNull View rootView) {
-    // The body of this method is generated in a way you would not otherwise write.
-    // This is done to optimize the compiled bytecode for size and performance.
-    int id;
-    missingId: {
-      id = R.id.textView3;
-      TextView textView3 = ViewBindings.findChildViewById(rootView, id);
-      if (textView3 == null) {
-        break missingId;
-      }
-
-      return new ActivityInputBusNumberBinding((ConstraintLayout) rootView, textView3);
+    if (rootView == null) {
+      throw new NullPointerException("rootView");
     }
-    String missingId = rootView.getResources().getResourceName(id);
-    throw new NullPointerException("Missing required view with ID: ".concat(missingId));
+
+    return new ActivityInputBusNumberBinding((ConstraintLayout) rootView);
   }
 }

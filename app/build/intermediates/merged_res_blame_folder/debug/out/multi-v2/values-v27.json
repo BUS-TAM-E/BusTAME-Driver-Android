@@ -4,7 +4,7 @@
             "outputFile": "com.example.bustame_driver.app-mergeDebugResources-34:/values-v27/values-v27.xml",
             "map": [
                 {
-                    "source": "/Users/leeyebeen/.gradle/caches/transforms-3/419c10ee8fef473499332d84eba164b4/transformed/core-splashscreen-1.0.1/res/values-v27/values-v27.xml",
+                    "source": "/Users/leeyebeen/.gradle/caches/transforms-3/4cdf8e10ee408d04339b8d8264b111e8/transformed/core-splashscreen-1.0.1/res/values-v27/values-v27.xml",
                     "from": {
                         "startLines": "2,3,4,7",
                         "startColumns": "4,4,4,4",
