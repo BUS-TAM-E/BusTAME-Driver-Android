@@ -6,4 +6,11 @@
     </style>
 
     <style name="Theme.BusTAMEDriver" parent="Base.Theme.BusTAMEDriver" />
+
+    <style name="Theme.App.Starting" parent="Theme.AppCompat.Light.NoActionBar">
+        <!--스플래시 화면 배경 색상-->
+        <item name="windowSplashScreenBackground">@color/white</item>
+
+        <item name="windowSplashScreenAnimatedIcon"></item>
+    </style>
 </resources>
