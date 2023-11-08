@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color black100
+color black200
+color black300
+color black400
+color black500
+color blueBuss
+color bustame_icon_background
+color green100
+color green200
+color green300
+color green400
+color negative
+color positive
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable splash
+layout activity_main
+mipmap bustame_icon
+mipmap bustame_icon_foreground
+mipmap bustame_icon_round
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.BusTAMEDriver
+style Theme.App.Starting
+style Theme.BusTAMEDriver
+xml backup_rules
+xml data_extraction_rules

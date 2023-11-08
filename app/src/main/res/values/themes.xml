@@ -10,7 +10,12 @@
     <style name="Theme.App.Starting" parent="Theme.AppCompat.Light.NoActionBar">
         <!--스플래시 화면 배경 색상-->
         <item name="windowSplashScreenBackground">@color/white</item>
+        <!--스플래시 화면 아이콘-->
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/bustame_icon</item>
+        <!--스플래시 지속 시간-->
+        <item name="windowSplashScreenAnimationDuration">3000</item>
+        <!--스플래시 화면 이후 적요할 테마 지정-->
+        <item name="postSplashScreenTheme">@drawable/splash</item>
 
-        <item name="windowSplashScreenAnimatedIcon"></item>
     </style>
 </resources>
