@@ -7,9 +7,14 @@ android {
     namespace = "com.example.bustame_driver"
     compileSdk = 34
 
+    buildFeatures {
+        viewBinding = true
+        dataBinding = true
+    }
+
     defaultConfig {
         applicationId = "com.example.bustame_driver"
-        minSdk = 24
+        minSdk = 21
         targetSdk = 33
         versionCode = 1
         versionName = "1.0"

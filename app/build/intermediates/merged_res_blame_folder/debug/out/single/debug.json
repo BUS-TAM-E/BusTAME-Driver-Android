@@ -1,142 +1,174 @@
 [
     {
-        "merged": "com.example.bustame_driver.app-merged_res-32:/mipmap-hdpi_bustame_icon_foreground.webp.flat",
-        "source": "com.example.bustame_driver.app-main-34:/mipmap-hdpi/bustame_icon_foreground.webp"
+        "merged": "com.example.bustame_driver.app-merged_res-36:/mipmap-xxhdpi_bustame_icon.webp.flat",
+        "source": "com.example.bustame_driver.app-main-38:/mipmap-xxhdpi/bustame_icon.webp"
     },
     {
-        "merged": "com.example.bustame_driver.app-merged_res-32:/mipmap-mdpi_bustame_icon_foreground.webp.flat",
-        "source": "com.example.bustame_driver.app-main-34:/mipmap-mdpi/bustame_icon_foreground.webp"
+        "merged": "com.example.bustame_driver.app-merged_res-36:/drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.bustame_driver.app-pngs-32:/drawable-ldpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "com.example.bustame_driver.app-merged_res-32:/xml_data_extraction_rules.xml.flat",
-        "source": "com.example.bustame_driver.app-main-34:/xml/data_extraction_rules.xml"
+        "merged": "com.example.bustame_driver.app-merged_res-36:/drawable_radiusbutton.xml.flat",
+        "source": "com.example.bustame_driver.app-main-38:/drawable/radiusbutton.xml"
     },
     {
-        "merged": "com.example.bustame_driver.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.bustame_driver.app-main-34:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "com.example.bustame_driver.app-merged_res-36:/xml_backup_rules.xml.flat",
+        "source": "com.example.bustame_driver.app-main-38:/xml/backup_rules.xml"
     },
     {
-        "merged": "com.example.bustame_driver.app-merged_res-32:/mipmap-hdpi_bustame_icon.webp.flat",
-        "source": "com.example.bustame_driver.app-main-34:/mipmap-hdpi/bustame_icon.webp"
+        "merged": "com.example.bustame_driver.app-merged_res-36:/mipmap-mdpi_bustame_icon.webp.flat",
+        "source": "com.example.bustame_driver.app-main-38:/mipmap-mdpi/bustame_icon.webp"
     },
     {
-        "merged": "com.example.bustame_driver.app-merged_res-32:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.bustame_driver.app-main-34:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "com.example.bustame_driver.app-merged_res-36:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.bustame_driver.app-main-38:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "com.example.bustame_driver.app-merged_res-32:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.example.bustame_driver.app-main-34:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "com.example.bustame_driver.app-merged_res-36:/mipmap-xxxhdpi_bustame_icon_foreground.webp.flat",
+        "source": "com.example.bustame_driver.app-main-38:/mipmap-xxxhdpi/bustame_icon_foreground.webp"
     },
     {
-        "merged": "com.example.bustame_driver.app-merged_res-32:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "com.example.bustame_driver.app-main-34:/drawable/ic_launcher_foreground.xml"
+        "merged": "com.example.bustame_driver.app-merged_res-36:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.bustame_driver.app-main-38:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.bustame_driver.app-merged_res-32:/drawable_splash.png.flat",
-        "source": "com.example.bustame_driver.app-main-34:/drawable/splash.png"
+        "merged": "com.example.bustame_driver.app-merged_res-36:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.bustame_driver.app-main-38:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.example.bustame_driver.app-merged_res-32:/mipmap-xhdpi_bustame_icon_foreground.webp.flat",
-        "source": "com.example.bustame_driver.app-main-34:/mipmap-xhdpi/bustame_icon_foreground.webp"
+        "merged": "com.example.bustame_driver.app-merged_res-36:/drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.bustame_driver.app-pngs-32:/drawable-hdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "com.example.bustame_driver.app-merged_res-32:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.bustame_driver.app-main-34:/drawable/ic_launcher_background.xml"
+        "merged": "com.example.bustame_driver.app-merged_res-36:/mipmap-anydpi-v26_bustame_icon_round.xml.flat",
+        "source": "com.example.bustame_driver.app-main-38:/mipmap-anydpi-v26/bustame_icon_round.xml"
     },
     {
-        "merged": "com.example.bustame_driver.app-merged_res-32:/mipmap-anydpi-v26_bustame_icon.xml.flat",
-        "source": "com.example.bustame_driver.app-main-34:/mipmap-anydpi-v26/bustame_icon.xml"
+        "merged": "com.example.bustame_driver.app-merged_res-36:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.bustame_driver.app-main-38:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "com.example.bustame_driver.app-merged_res-32:/mipmap-xxxhdpi_bustame_icon_round.webp.flat",
-        "source": "com.example.bustame_driver.app-main-34:/mipmap-xxxhdpi/bustame_icon_round.webp"
+        "merged": "com.example.bustame_driver.app-merged_res-36:/mipmap-hdpi_bustame_icon_round.webp.flat",
+        "source": "com.example.bustame_driver.app-main-38:/mipmap-hdpi/bustame_icon_round.webp"
     },
     {
-        "merged": "com.example.bustame_driver.app-merged_res-32:/mipmap-mdpi_bustame_icon.webp.flat",
-        "source": "com.example.bustame_driver.app-main-34:/mipmap-mdpi/bustame_icon.webp"
+        "merged": "com.example.bustame_driver.app-merged_res-36:/mipmap-xxxhdpi_bustame_icon.webp.flat",
+        "source": "com.example.bustame_driver.app-main-38:/mipmap-xxxhdpi/bustame_icon.webp"
     },
     {
-        "merged": "com.example.bustame_driver.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.example.bustame_driver.app-main-34:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "com.example.bustame_driver.app-merged_res-36:/mipmap-mdpi_bustame_icon_foreground.webp.flat",
+        "source": "com.example.bustame_driver.app-main-38:/mipmap-mdpi/bustame_icon_foreground.webp"
     },
     {
-        "merged": "com.example.bustame_driver.app-merged_res-32:/mipmap-xxhdpi_bustame_icon_round.webp.flat",
-        "source": "com.example.bustame_driver.app-main-34:/mipmap-xxhdpi/bustame_icon_round.webp"
+        "merged": "com.example.bustame_driver.app-merged_res-36:/mipmap-hdpi_bustame_icon_foreground.webp.flat",
+        "source": "com.example.bustame_driver.app-main-38:/mipmap-hdpi/bustame_icon_foreground.webp"
     },
     {
-        "merged": "com.example.bustame_driver.app-merged_res-32:/layout_activity_main.xml.flat",
-        "source": "com.example.bustame_driver.app-main-34:/layout/activity_main.xml"
+        "merged": "com.example.bustame_driver.app-merged_res-36:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.bustame_driver.app-main-38:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.bustame_driver.app-merged_res-32:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.bustame_driver.app-main-34:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "com.example.bustame_driver.app-merged_res-36:/mipmap-xxhdpi_bustame_icon_round.webp.flat",
+        "source": "com.example.bustame_driver.app-main-38:/mipmap-xxhdpi/bustame_icon_round.webp"
     },
     {
-        "merged": "com.example.bustame_driver.app-merged_res-32:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.example.bustame_driver.app-main-34:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "com.example.bustame_driver.app-merged_res-36:/mipmap-mdpi_bustame_icon_round.webp.flat",
+        "source": "com.example.bustame_driver.app-main-38:/mipmap-mdpi/bustame_icon_round.webp"
     },
     {
-        "merged": "com.example.bustame_driver.app-merged_res-32:/mipmap-xhdpi_bustame_icon.webp.flat",
-        "source": "com.example.bustame_driver.app-main-34:/mipmap-xhdpi/bustame_icon.webp"
+        "merged": "com.example.bustame_driver.app-merged_res-36:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.bustame_driver.app-main-38:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.example.bustame_driver.app-merged_res-32:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.bustame_driver.app-main-34:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "com.example.bustame_driver.app-merged_res-36:/mipmap-xhdpi_bustame_icon_foreground.webp.flat",
+        "source": "com.example.bustame_driver.app-main-38:/mipmap-xhdpi/bustame_icon_foreground.webp"
     },
     {
-        "merged": "com.example.bustame_driver.app-merged_res-32:/mipmap-hdpi_bustame_icon_round.webp.flat",
-        "source": "com.example.bustame_driver.app-main-34:/mipmap-hdpi/bustame_icon_round.webp"
+        "merged": "com.example.bustame_driver.app-merged_res-36:/drawable_splash.png.flat",
+        "source": "com.example.bustame_driver.app-main-38:/drawable/splash.png"
     },
     {
-        "merged": "com.example.bustame_driver.app-merged_res-32:/mipmap-anydpi-v26_bustame_icon_round.xml.flat",
-        "source": "com.example.bustame_driver.app-main-34:/mipmap-anydpi-v26/bustame_icon_round.xml"
+        "merged": "com.example.bustame_driver.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.bustame_driver.app-main-38:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.bustame_driver.app-merged_res-32:/mipmap-xxxhdpi_bustame_icon.webp.flat",
-        "source": "com.example.bustame_driver.app-main-34:/mipmap-xxxhdpi/bustame_icon.webp"
+        "merged": "com.example.bustame_driver.app-merged_res-36:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.bustame_driver.app-main-38:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "com.example.bustame_driver.app-merged_res-32:/mipmap-mdpi_bustame_icon_round.webp.flat",
-        "source": "com.example.bustame_driver.app-main-34:/mipmap-mdpi/bustame_icon_round.webp"
+        "merged": "com.example.bustame_driver.app-merged_res-36:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.bustame_driver.app-main-38:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "com.example.bustame_driver.app-merged_res-32:/mipmap-xxhdpi_bustame_icon_foreground.webp.flat",
-        "source": "com.example.bustame_driver.app-main-34:/mipmap-xxhdpi/bustame_icon_foreground.webp"
+        "merged": "com.example.bustame_driver.app-merged_res-36:/mipmap-xxxhdpi_bustame_icon_round.webp.flat",
+        "source": "com.example.bustame_driver.app-main-38:/mipmap-xxxhdpi/bustame_icon_round.webp"
     },
     {
-        "merged": "com.example.bustame_driver.app-merged_res-32:/xml_backup_rules.xml.flat",
-        "source": "com.example.bustame_driver.app-main-34:/xml/backup_rules.xml"
+        "merged": "com.example.bustame_driver.app-merged_res-36:/mipmap-xxhdpi_bustame_icon_foreground.webp.flat",
+        "source": "com.example.bustame_driver.app-main-38:/mipmap-xxhdpi/bustame_icon_foreground.webp"
     },
     {
-        "merged": "com.example.bustame_driver.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.bustame_driver.app-main-34:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "com.example.bustame_driver.app-merged_res-36:/drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.bustame_driver.app-pngs-32:/drawable-xhdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "com.example.bustame_driver.app-merged_res-32:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.bustame_driver.app-main-34:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "com.example.bustame_driver.app-merged_res-36:/drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.bustame_driver.app-pngs-32:/drawable-mdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "com.example.bustame_driver.app-merged_res-32:/mipmap-xxxhdpi_bustame_icon_foreground.webp.flat",
-        "source": "com.example.bustame_driver.app-main-34:/mipmap-xxxhdpi/bustame_icon_foreground.webp"
+        "merged": "com.example.bustame_driver.app-merged_res-36:/layout_activity_main.xml.flat",
+        "source": "com.example.bustame_driver.app-main-38:/layout/activity_main.xml"
     },
     {
-        "merged": "com.example.bustame_driver.app-merged_res-32:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.example.bustame_driver.app-main-34:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "com.example.bustame_driver.app-merged_res-36:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.bustame_driver.app-pngs-32:/drawable-anydpi-v24/ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.example.bustame_driver.app-merged_res-32:/mipmap-xxhdpi_bustame_icon.webp.flat",
-        "source": "com.example.bustame_driver.app-main-34:/mipmap-xxhdpi/bustame_icon.webp"
+        "merged": "com.example.bustame_driver.app-merged_res-36:/mipmap-xhdpi_bustame_icon_round.webp.flat",
+        "source": "com.example.bustame_driver.app-main-38:/mipmap-xhdpi/bustame_icon_round.webp"
     },
     {
-        "merged": "com.example.bustame_driver.app-merged_res-32:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.bustame_driver.app-main-34:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "com.example.bustame_driver.app-merged_res-36:/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.bustame_driver.app-pngs-32:/drawable-xxxhdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "com.example.bustame_driver.app-merged_res-32:/mipmap-xhdpi_bustame_icon_round.webp.flat",
-        "source": "com.example.bustame_driver.app-main-34:/mipmap-xhdpi/bustame_icon_round.webp"
+        "merged": "com.example.bustame_driver.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.bustame_driver.app-main-38:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.example.bustame_driver.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.example.bustame_driver.app-main-34:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "com.example.bustame_driver.app-merged_res-36:/mipmap-anydpi-v26_bustame_icon.xml.flat",
+        "source": "com.example.bustame_driver.app-main-38:/mipmap-anydpi-v26/bustame_icon.xml"
+    },
+    {
+        "merged": "com.example.bustame_driver.app-merged_res-36:/mipmap-xhdpi_bustame_icon.webp.flat",
+        "source": "com.example.bustame_driver.app-main-38:/mipmap-xhdpi/bustame_icon.webp"
+    },
+    {
+        "merged": "com.example.bustame_driver.app-merged_res-36:/mipmap-hdpi_bustame_icon.webp.flat",
+        "source": "com.example.bustame_driver.app-main-38:/mipmap-hdpi/bustame_icon.webp"
+    },
+    {
+        "merged": "com.example.bustame_driver.app-merged_res-36:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.bustame_driver.app-main-38:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.bustame_driver.app-merged_res-36:/drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.bustame_driver.app-pngs-32:/drawable-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.bustame_driver.app-merged_res-36:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.bustame_driver.app-main-38:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.bustame_driver.app-merged_res-36:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.bustame_driver.app-main-38:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.bustame_driver.app-merged_res-36:/layout_activity_input_bus_number.xml.flat",
+        "source": "com.example.bustame_driver.app-main-38:/layout/activity_input_bus_number.xml"
+    },
+    {
+        "merged": "com.example.bustame_driver.app-merged_res-36:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.bustame_driver.app-main-38:/mipmap-mdpi/ic_launcher_round.webp"
     }
 ]

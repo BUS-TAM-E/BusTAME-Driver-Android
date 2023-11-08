@@ -16,10 +16,6 @@
     <color name="positive">#79DFA5</color>
     <color name="white">#FFFFFFFF</color>
     <string name="app_name">BusTAME-Driver</string>
-    <style name="Base.Theme.BusTAMEDriver" parent="Theme.Material3.DayNight.NoActionBar">
-        
-        
-    </style>
     <style name="Theme.App.Starting" parent="Theme.AppCompat.Light.NoActionBar">
         
         <item name="windowSplashScreenBackground">@color/white</item>

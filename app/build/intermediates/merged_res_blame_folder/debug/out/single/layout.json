@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.bustame_driver.app-mergeDebugResources-35:/layout/activity_main.xml",
+        "source": "com.example.bustame_driver.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.bustame_driver.app-mergeDebugResources-35:/layout/activity_input_bus_number.xml",
+        "source": "com.example.bustame_driver.app-main-38:/layout/activity_input_bus_number.xml"
+    }
+]
