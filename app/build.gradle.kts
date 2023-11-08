@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.example.bustame_driver"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.bustame_driver"
@@ -36,6 +36,9 @@ android {
 }
 
 dependencies {
+
+    // SplashScreen
+    implementation ("androidx.core:core-splashscreen:1.0.1")
 
     implementation("androidx.core:core-ktx:1.9.0")
     implementation("androidx.appcompat:appcompat:1.6.1")
