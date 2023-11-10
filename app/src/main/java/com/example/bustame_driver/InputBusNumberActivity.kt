@@ -1,5 +1,6 @@
 package com.example.bustame_driver
 
+import android.content.Intent
 import android.graphics.Color
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -19,7 +20,7 @@ class InputBusNumberActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         // 버스 번호 저장할 변수
-        var busnumber: String = ""
+        var busNumber: String = ""
 
         // 버튼 비활성화
         binding.InputButton.isEnabled = false
@@ -34,10 +35,10 @@ class InputBusNumberActivity : AppCompatActivity() {
             // 값이 변경되면 실행되는 함수
             override fun onTextChanged(s: CharSequence?, start: Int, before: Int, count: Int) {
                 // 입력값 저장하기
-                busnumber = binding.editBusNumber.text.toString()
+                busNumber = binding.editBusNumber.text.toString()
 
                 // 값의 유무에 따른 버튼 활성화 여부
-                if(busnumber.isNotEmpty()){
+                if(busNumber.isNotEmpty()){
                     binding.InputButton.isEnabled = true
                     binding.InputButton.isClickable = true
                     binding.InputButton.setBackgroundResource(R.color.white)
@@ -49,6 +50,19 @@ class InputBusNumberActivity : AppCompatActivity() {
             }
         })
 
+        binding.InputButton.setOnClickListener {
+            // 입력된 버스 번호
+            val inputBusNumber = busNumber
+
+            // 새 액티비티를 생성하는 인텐트 생성
+            val intent = Intent(this, RideBellViewActivity::class.java).apply{
+                // 입력된 버스 번호를 inputBusNumber라는 키로 넘긴다.
+                putExtra("inputBusNumber", inputBusNumber)
+            }
+
+            // 액티비티 시작
+            startActivity(intent)
+        }
 
     }
 }

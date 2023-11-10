@@ -22,7 +22,7 @@
 15-->[androidx.core:core:1.9.0] /Users/leeyebeen/.gradle/caches/transforms-3/9952431af2cd09d815de29f0fdd5de91/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
 16
 17    <application
-17-->/Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml:5:5-28:19
+17-->/Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml:5:5-32:19
 18        android:allowBackup="true"
 18-->/Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml:6:9-35
 19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -44,93 +44,105 @@
 28        android:theme="@style/Theme.App.Starting" >
 28-->/Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml:13:9-50
 29        <activity
-29-->/Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml:15:9-24:20
-30            android:name="com.example.bustame_driver.MainActivity"
-30-->/Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml:16:13-41
-31            android:exported="true"
-31-->/Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml:17:13-36
-32            android:theme="@style/Theme.App.Starting" >
-32-->/Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml:18:13-54
-33            <intent-filter>
-33-->/Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml:19:13-23:29
-34                <action android:name="android.intent.action.MAIN" />
-34-->/Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml:20:17-69
-34-->/Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml:20:25-66
-35
-36                <category android:name="android.intent.category.LAUNCHER" />
-36-->/Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml:22:17-77
-36-->/Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml:22:27-74
-37            </intent-filter>
-38        </activity>
-39        <activity android:name="com.example.bustame_driver.InputBusNumberActivity" />
-39-->/Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml:25:9-26:54
-39-->/Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml:26:13-51
-40
-41        <provider
-41-->[androidx.emoji2:emoji2:1.2.0] /Users/leeyebeen/.gradle/caches/transforms-3/e82fd65a5bda7fc55434d012ad3e97da/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
-42            android:name="androidx.startup.InitializationProvider"
-42-->[androidx.emoji2:emoji2:1.2.0] /Users/leeyebeen/.gradle/caches/transforms-3/e82fd65a5bda7fc55434d012ad3e97da/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
-43            android:authorities="com.example.bustame_driver.androidx-startup"
-43-->[androidx.emoji2:emoji2:1.2.0] /Users/leeyebeen/.gradle/caches/transforms-3/e82fd65a5bda7fc55434d012ad3e97da/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
-44            android:exported="false" >
-44-->[androidx.emoji2:emoji2:1.2.0] /Users/leeyebeen/.gradle/caches/transforms-3/e82fd65a5bda7fc55434d012ad3e97da/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
-45            <meta-data
-45-->[androidx.emoji2:emoji2:1.2.0] /Users/leeyebeen/.gradle/caches/transforms-3/e82fd65a5bda7fc55434d012ad3e97da/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
-46                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-46-->[androidx.emoji2:emoji2:1.2.0] /Users/leeyebeen/.gradle/caches/transforms-3/e82fd65a5bda7fc55434d012ad3e97da/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
-47                android:value="androidx.startup" />
-47-->[androidx.emoji2:emoji2:1.2.0] /Users/leeyebeen/.gradle/caches/transforms-3/e82fd65a5bda7fc55434d012ad3e97da/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
-48            <meta-data
-48-->[androidx.lifecycle:lifecycle-process:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/e256f97501067bee72e6aba6e67acdb7/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:29:13-31:52
-49                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-49-->[androidx.lifecycle:lifecycle-process:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/e256f97501067bee72e6aba6e67acdb7/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:30:17-78
-50                android:value="androidx.startup" />
-50-->[androidx.lifecycle:lifecycle-process:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/e256f97501067bee72e6aba6e67acdb7/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:31:17-49
+29-->/Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml:15:9-17:40
+30            android:name="com.example.bustame_driver.RideBellViewActivity"
+30-->/Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml:16:13-49
+31            android:exported="false" />
+31-->/Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml:17:13-37
+32        <activity
+32-->/Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml:18:9-20:40
+33            android:name="com.example.bustame_driver.RideBell"
+33-->/Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml:19:13-37
+34            android:exported="false" />
+34-->/Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml:20:13-37
+35        <activity
+35-->/Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml:21:9-30:20
+36            android:name="com.example.bustame_driver.MainActivity"
+36-->/Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml:22:13-41
+37            android:exported="true"
+37-->/Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml:23:13-36
+38            android:theme="@style/Theme.App.Starting" >
+38-->/Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml:24:13-54
+39            <intent-filter>
+39-->/Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml:25:13-29:29
+40                <action android:name="android.intent.action.MAIN" />
+40-->/Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml:26:17-69
+40-->/Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml:26:25-66
+41
+42                <category android:name="android.intent.category.LAUNCHER" />
+42-->/Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml:28:17-77
+42-->/Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml:28:27-74
+43            </intent-filter>
+44        </activity>
+45        <activity android:name="com.example.bustame_driver.InputBusNumberActivity" />
+45-->/Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml:31:9-60
+45-->/Users/leeyebeen/Desktop/BusTAME-Driver-Android/app/src/main/AndroidManifest.xml:31:19-57
+46
+47        <provider
+47-->[androidx.emoji2:emoji2:1.2.0] /Users/leeyebeen/.gradle/caches/transforms-3/e82fd65a5bda7fc55434d012ad3e97da/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+48            android:name="androidx.startup.InitializationProvider"
+48-->[androidx.emoji2:emoji2:1.2.0] /Users/leeyebeen/.gradle/caches/transforms-3/e82fd65a5bda7fc55434d012ad3e97da/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+49            android:authorities="com.example.bustame_driver.androidx-startup"
+49-->[androidx.emoji2:emoji2:1.2.0] /Users/leeyebeen/.gradle/caches/transforms-3/e82fd65a5bda7fc55434d012ad3e97da/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+50            android:exported="false" >
+50-->[androidx.emoji2:emoji2:1.2.0] /Users/leeyebeen/.gradle/caches/transforms-3/e82fd65a5bda7fc55434d012ad3e97da/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
 51            <meta-data
-51-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
-52                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
-52-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+51-->[androidx.emoji2:emoji2:1.2.0] /Users/leeyebeen/.gradle/caches/transforms-3/e82fd65a5bda7fc55434d012ad3e97da/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+52                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+52-->[androidx.emoji2:emoji2:1.2.0] /Users/leeyebeen/.gradle/caches/transforms-3/e82fd65a5bda7fc55434d012ad3e97da/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
 53                android:value="androidx.startup" />
-53-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
-54        </provider>
-55
-56        <receiver
-56-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
-57            android:name="androidx.profileinstaller.ProfileInstallReceiver"
-57-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
-58            android:directBootAware="false"
-58-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
-59            android:enabled="true"
-59-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
-60            android:exported="true"
-60-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
-61            android:permission="android.permission.DUMP" >
-61-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
-62            <intent-filter>
-62-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
-63                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
-63-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
-63-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
-64            </intent-filter>
-65            <intent-filter>
-65-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
-66                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
-66-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
-66-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
-67            </intent-filter>
+53-->[androidx.emoji2:emoji2:1.2.0] /Users/leeyebeen/.gradle/caches/transforms-3/e82fd65a5bda7fc55434d012ad3e97da/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+54            <meta-data
+54-->[androidx.lifecycle:lifecycle-process:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/e256f97501067bee72e6aba6e67acdb7/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:29:13-31:52
+55                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+55-->[androidx.lifecycle:lifecycle-process:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/e256f97501067bee72e6aba6e67acdb7/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:30:17-78
+56                android:value="androidx.startup" />
+56-->[androidx.lifecycle:lifecycle-process:2.6.1] /Users/leeyebeen/.gradle/caches/transforms-3/e256f97501067bee72e6aba6e67acdb7/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:31:17-49
+57            <meta-data
+57-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+58                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+58-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+59                android:value="androidx.startup" />
+59-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+60        </provider>
+61
+62        <receiver
+62-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+63            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+63-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+64            android:directBootAware="false"
+64-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+65            android:enabled="true"
+65-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+66            android:exported="true"
+66-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+67            android:permission="android.permission.DUMP" >
+67-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
 68            <intent-filter>
-68-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
-69                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
-69-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
-69-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+68-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+69                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+69-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+69-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
 70            </intent-filter>
 71            <intent-filter>
-71-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
-72                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
-72-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
-72-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
+71-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+72                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+72-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+72-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
 73            </intent-filter>
-74        </receiver>
-75    </application>
-76
-77</manifest>
+74            <intent-filter>
+74-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+75                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+75-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+75-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+76            </intent-filter>
+77            <intent-filter>
+77-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+78                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+78-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+78-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/leeyebeen/.gradle/caches/transforms-3/e9b7de611ee4908e6cc21842e96edbf0/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
+79            </intent-filter>
+80        </receiver>
+81    </application>
+82
+83</manifest>
