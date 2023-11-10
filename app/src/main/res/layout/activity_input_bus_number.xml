@@ -24,8 +24,24 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
 
+    <TextView
+        android:id="@+id/busNumberTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="137dp"
+        android:layout_marginEnd="137dp"
+        android:layout_marginBottom="16dp"
+        android:background="@drawable/radiustext"
+        android:text="   버스 번호 입력   "
+        android:textColor="@color/green200"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/editBusNumber"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
     <EditText
-        android:id="@+id/inputBusNumber"
+        android:id="@+id/editBusNumber"
         android:layout_width="203dp"
         android:layout_height="80dp"
         android:layout_marginStart="95dp"
@@ -43,21 +59,5 @@
         app:layout_constraintBottom_toTopOf="@+id/InputButton"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
-        app:layout_constraintStart_toStartOf="parent" />
-
-    <TextView
-        android:id="@+id/textView3"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="137dp"
-        android:layout_marginEnd="137dp"
-        android:layout_marginBottom="16dp"
-        android:background="@drawable/radiustext"
-        android:text="   버스 번호 입력   "
-        android:textColor="@color/green200"
-        android:textSize="16sp"
-        android:textStyle="bold"
-        app:layout_constraintBottom_toTopOf="@+id/inputBusNumber"
-        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>
