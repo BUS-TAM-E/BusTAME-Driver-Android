@@ -1,5 +1,9 @@
 [
     {
+        "merged": "com.example.bustame_driver.app-mergeDebugResources-35:/layout/activity_ride_bell_view.xml",
+        "source": "com.example.bustame_driver.app-main-38:/layout/activity_ride_bell_view.xml"
+    },
+    {
         "merged": "com.example.bustame_driver.app-mergeDebugResources-35:/layout/activity_main.xml",
         "source": "com.example.bustame_driver.app-main-38:/layout/activity_main.xml"
     },

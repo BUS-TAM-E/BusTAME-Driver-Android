@@ -27,6 +27,12 @@
         android:testOnly="true"
         android:theme="@style/Theme.App.Starting" >
         <activity
+            android:name="com.example.bustame_driver.RideBellViewActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.bustame_driver.RideBell"
+            android:exported="false" />
+        <activity
             android:name="com.example.bustame_driver.MainActivity"
             android:exported="true"
             android:theme="@style/Theme.App.Starting" >

@@ -28,6 +28,10 @@
         "source": "com.example.bustame_driver.app-main-38:/mipmap-xxxhdpi/bustame_icon_foreground.webp"
     },
     {
+        "merged": "com.example.bustame_driver.app-merged_res-36:/drawable_radiustext.xml.flat",
+        "source": "com.example.bustame_driver.app-main-38:/drawable/radiustext.xml"
+    },
+    {
         "merged": "com.example.bustame_driver.app-merged_res-36:/mipmap-xhdpi_ic_launcher_round.webp.flat",
         "source": "com.example.bustame_driver.app-main-38:/mipmap-xhdpi/ic_launcher_round.webp"
     },
@@ -98,6 +102,10 @@
     {
         "merged": "com.example.bustame_driver.app-merged_res-36:/mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "com.example.bustame_driver.app-main-38:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.bustame_driver.app-merged_res-36:/layout_activity_ride_bell_view.xml.flat",
+        "source": "com.example.bustame_driver.app-main-38:/layout/activity_ride_bell_view.xml"
     },
     {
         "merged": "com.example.bustame_driver.app-merged_res-36:/mipmap-xxxhdpi_bustame_icon_round.webp.flat",
