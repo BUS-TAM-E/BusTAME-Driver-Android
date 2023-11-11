@@ -13,12 +13,6 @@
         android:theme="@style/Theme.App.Starting"
         tools:targetApi="31">
         <activity
-            android:name=".RideBellViewActivity"
-            android:exported="false" />
-        <activity
-            android:name=".RideBell"
-            android:exported="false" />
-        <activity
             android:name=".MainActivity"
             android:exported="true"
             android:theme="@style/Theme.App.Starting">
@@ -28,7 +22,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".InputBusNumberActivity" />
+        <activity
+            android:name=".InputBusNumberActivity"
+            android:parentActivityName=".MainActivity"/>
+        <activity
+            android:name=".RideBellViewActivity"
+            android:exported="false"
+            android:parentActivityName=".InputBusNumberActivity" />
     </application>
 
 </manifest>

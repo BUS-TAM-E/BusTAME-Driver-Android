@@ -8,6 +8,12 @@
         android:minSdkVersion="21"
         android:targetSdkVersion="33" />
 
+    <queries>
+        <intent>
+            <action android:name="android.media.browse.MediaBrowserService" />
+        </intent>
+    </queries>
+
     <permission
         android:name="com.example.bustame_driver.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
         android:protectionLevel="signature" />
@@ -27,12 +33,6 @@
         android:testOnly="true"
         android:theme="@style/Theme.App.Starting" >
         <activity
-            android:name="com.example.bustame_driver.RideBellViewActivity"
-            android:exported="false" />
-        <activity
-            android:name="com.example.bustame_driver.RideBell"
-            android:exported="false" />
-        <activity
             android:name="com.example.bustame_driver.MainActivity"
             android:exported="true"
             android:theme="@style/Theme.App.Starting" >
@@ -42,7 +42,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.example.bustame_driver.InputBusNumberActivity" />
+        <activity
+            android:name="com.example.bustame_driver.InputBusNumberActivity"
+            android:parentActivityName="com.example.bustame_driver.MainActivity" />
+        <activity
+            android:name="com.example.bustame_driver.RideBellViewActivity"
+            android:exported="false"
+            android:parentActivityName="com.example.bustame_driver.InputBusNumberActivity" />
 
         <provider
             android:name="androidx.startup.InitializationProvider"
