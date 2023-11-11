@@ -8,7 +8,7 @@
         <item name="windowSplashScreenAnimatedIcon">@mipmap/bustame_icon</item>
         <!--스플래시 지속 시간-->
         <item name="windowSplashScreenAnimationDuration">3000</item>
-        <!--스플래시 화면 이후 적요할 테마 지정-->
+        <!--스플래시 화면 이후 적용할 테마 지정-->
         <item name="postSplashScreenTheme">@drawable/splash</item>
 
     </style>
