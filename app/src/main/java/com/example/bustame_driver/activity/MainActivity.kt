@@ -1,8 +1,8 @@
-package com.example.bustame_driver
+package com.example.bustame_driver.activity
 
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import com.example.bustame_driver.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
