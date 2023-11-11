@@ -1,15 +1,12 @@
-package com.example.bustame_driver
+package com.example.bustame_driver.activity
 
 import android.content.Intent
-import android.graphics.Color
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.text.Editable
 import android.text.TextWatcher
-import android.widget.Toast
-import androidx.core.widget.addTextChangedListener
+import androidx.appcompat.app.AppCompatActivity
+import com.example.bustame_driver.R
 import com.example.bustame_driver.databinding.ActivityInputBusNumberBinding
-import org.w3c.dom.Text
 
 class InputBusNumberActivity : AppCompatActivity() {
 
@@ -27,7 +24,7 @@ class InputBusNumberActivity : AppCompatActivity() {
         binding.InputButton.setBackgroundResource(R.color.green300)
 
         // 버스 번호가 입력될 때 버튼 활성화
-        binding.editBusNumber.addTextChangedListener(object: TextWatcher{
+        binding.editBusNumber.addTextChangedListener(object: TextWatcher {
             override fun afterTextChanged(s: Editable?) {}
 
             override fun beforeTextChanged(s: CharSequence?, start: Int, count: Int, after: Int) {}

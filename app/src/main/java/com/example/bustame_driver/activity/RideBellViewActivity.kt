@@ -1,11 +1,7 @@
-package com.example.bustame_driver
+package com.example.bustame_driver.activity
 
-import android.app.ActionBar
-import android.graphics.drawable.ColorDrawable
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.view.MenuItem
-import androidx.core.content.ContextCompat
+import androidx.appcompat.app.AppCompatActivity
 import com.example.bustame_driver.databinding.ActivityRideBellViewBinding
 
 class RideBellViewActivity : AppCompatActivity() {

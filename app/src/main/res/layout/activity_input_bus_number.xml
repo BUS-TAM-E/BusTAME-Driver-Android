@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="@color/green200"
     android:backgroundTintMode="add"
-    tools:context=".InputBusNumberActivity">
+    tools:context=".activity.InputBusNumberActivity">
 
     <Button
         android:id="@+id/InputButton"
