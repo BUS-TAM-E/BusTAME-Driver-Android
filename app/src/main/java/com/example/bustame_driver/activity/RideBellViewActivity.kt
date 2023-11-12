@@ -102,7 +102,7 @@ class RideBellViewActivity : AppCompatActivity() {
                 val message: String? = rideBellBody.message
 
                 // 해당 버스의 해당 정류장에서 승차벨을 요청했을 때
-                if(busNum == busNumber && busStopNum == "17007") {
+                if(busNum == busNumber && busStopNum == "17001") {
                     if (passengerType == "일반")
                         PassengerCount += 1
                     else if (passengerType == "교통약자")
