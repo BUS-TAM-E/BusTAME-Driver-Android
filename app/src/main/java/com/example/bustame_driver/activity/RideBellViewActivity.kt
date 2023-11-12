@@ -53,7 +53,7 @@ class RideBellViewActivity : AppCompatActivity() {
     private fun updateRideBellData(busNumber: String) {
         // 17007 동양미래대학.구로성심병원(중) 정류장에서 승차벨을 울린 탑승인원 파악
         // 버스 번호를 입력한 number를 통해 승차벨 api 통신
-        val getRideBellView = com.example.bustame_driver.api.Retrofit.service.findRideBell(busNumber)
+        val getRideBellView = com.example.bustame_driver.api.Retrofit.service.findRideBell("160")
 
         getRideBellView.enqueue(object : Callback<ArrayList<RideBellBody>> {
             // 응답
@@ -82,15 +82,15 @@ class RideBellViewActivity : AppCompatActivity() {
 
     private fun processRideBellData(busNumber: String, rideBellBodyList: ArrayList<RideBellBody>?) {
         // 일반 승객
-        var PassengerCount = 0
+        var PassengerCount: Int = 0
         // 교통약자 승객
-        var disabilityPassengerCount = 0
+        var disabilityPassengerCount: Int = 0
         // 요청사항 : 휠체어
-        var wheelCount = 0
+        var wheelCount: Int = 0
         // 요청사항 : 기다려주세요
-        var slowCount = 0
+        var slowCount: Int = 0
         // 요청사항 : 유모차
-        var babyCount = 0
+        var babyCount: Int = 0
 
         if(rideBellBodyList != null && rideBellBodyList.isNotEmpty()) {
 
