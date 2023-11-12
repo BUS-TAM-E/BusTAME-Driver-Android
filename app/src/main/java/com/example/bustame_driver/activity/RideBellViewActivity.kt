@@ -22,9 +22,11 @@ class RideBellViewActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         // 인텐트에서 버스 번호 가져오기
-        val busNumber = intent.getStringExtra("inputBusNumber")
+        val bus = intent.getStringExtra("inputBusNumber")
 
-        binding.busNumber.text = busNumber
+        Log.d("BusNumber", "Bus Number: $bus")
+
+        binding.busNumber.text = bus
 
         // 액션바 만들기
         binding.backButton.setOnClickListener {
@@ -37,9 +39,9 @@ class RideBellViewActivity : AppCompatActivity() {
         // 실시간 갱신을 통한 탑승 현황 파악하기
         job = CoroutineScope(Dispatchers.Default).launch {
             while (isActive) {
-                delay(10000)
+                delay(5000)
                 withContext(Dispatchers.Main) {
-                    updateRideBellData(busNumber.toString())
+                    updateRideBellData(bus.toString())
                 }
             }
         }
@@ -51,9 +53,13 @@ class RideBellViewActivity : AppCompatActivity() {
     }
 
     private fun updateRideBellData(busNumber: String) {
+
+        // 인텐트에서 버스 번호 가져오기
+        val bus = intent.getStringExtra("inputBusNumber")
+
         // 17007 동양미래대학.구로성심병원(중) 정류장에서 승차벨을 울린 탑승인원 파악
         // 버스 번호를 입력한 number를 통해 승차벨 api 통신
-        val getRideBellView = com.example.bustame_driver.api.Retrofit.service.findRideBell("160")
+        val getRideBellView = com.example.bustame_driver.api.Retrofit.service.findRideBell(bus)
 
         getRideBellView.enqueue(object : Callback<ArrayList<RideBellBody>> {
             // 응답
@@ -68,7 +74,8 @@ class RideBellViewActivity : AppCompatActivity() {
 
                 // 응답이 실패했을 때
                 else {
-                    Log.d("getRideBell", response.code().toString())
+                    Log.d("getRideBell", "Response code: " + response.code().toString())
+                    Log.d("getRideBell", "Response message: " + response.message().toString())
                 }
             }
 
