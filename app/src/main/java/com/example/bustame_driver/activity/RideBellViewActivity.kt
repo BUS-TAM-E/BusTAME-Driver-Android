@@ -34,7 +34,7 @@ class RideBellViewActivity : AppCompatActivity() {
         }
 
         // 정류장명 설정하기
-        binding.textBusStopName.setText("동양미래대학.구로성심병원 (중)")
+        binding.textBusStopName.setText("동양미래대학.구로성심병원(중)")
 
         // 실시간 갱신을 통한 탑승 현황 파악하기
         job = CoroutineScope(Dispatchers.Default).launch {
@@ -108,7 +108,7 @@ class RideBellViewActivity : AppCompatActivity() {
                 val passengerType: String? = rideBellBody.passengerType
                 val message: String? = rideBellBody.message
 
-                // 해당 버스의 해당 정류장에서 승차벨을 요청했을 때
+                // 해당 버스의 해당 정류장에서 승차벨을 요청했을 때 17001 17228
                 if(busNum == busNumber && busStopNum == "17001") {
                     if (passengerType == "일반")
                         PassengerCount += 1
